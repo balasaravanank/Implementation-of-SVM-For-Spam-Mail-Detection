@@ -1,4 +1,4 @@
-![Screenshot 2025-04-21 232423](https://github.com/user-attachments/assets/995e2fb7-0dfc-4564-b611-052ca27a79fb)# Implementation-of-SVM-For-Spam-Mail-Detection
+## Implementation-of-SVM-For-Spam-Mail-Detection
 
 ## AIM:
 To write a program to implement the SVM For Spam Mail Detection.
