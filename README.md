@@ -1,4 +1,4 @@
-# Implementation-of-SVM-For-Spam-Mail-Detection
+![Screenshot 2025-04-21 232423](https://github.com/user-attachments/assets/995e2fb7-0dfc-4564-b611-052ca27a79fb)# Implementation-of-SVM-For-Spam-Mail-Detection
 
 ## AIM:
 To write a program to implement the SVM For Spam Mail Detection.
@@ -59,13 +59,20 @@ print("Predictions:", y_pred)
 # Accuracy
 accuracy = metrics.accuracy_score(y_test, y_pred)
 print("Accuracy:", accuracy)
-
-
 ```
 
 ## Output:
-![SVM For Spam Mail Detection](sam.png)
+## ENCODING DETECTED
+![Screenshot 2025-04-21 232423](https://github.com/user-attachments/assets/102b5f40-76b4-4389-84f6-8b081d83f402)
+## FIRST FEW ROWS, DATA INFO, MISSING VALUES
+![Screenshot 2025-04-21 232432](https://github.com/user-attachments/assets/eb57e1bb-d8b2-499d-a0d1-28193c783037)
+## PREDICTED LABELS
+![Screenshot 2025-04-21 232438](https://github.com/user-attachments/assets/496d3781-2560-47ed-bc38-a7b50c42435a)
+## MODEL ACCURACY
+![Screenshot 2025-04-21 232441](https://github.com/user-attachments/assets/cae6295e-3af8-4c82-89d4-ef45896c2122)
 
 
+## Developed by : BALA SARAVANAN K
+## Reg no: 24900611
 ## Result:
 Thus the program to implement the SVM For Spam Mail Detection is written and verified using python programming.
